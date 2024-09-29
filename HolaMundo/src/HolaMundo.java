@@ -24,7 +24,8 @@ public class HolaMundo {
             nombre = "Juan";
         }
         System.out.println("nombre = " + nombre);
-        System.out.println("hola");
+
+        int edadPersona = 5;
 
 
 
