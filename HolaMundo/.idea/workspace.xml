@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="638d05f7-29a6-48c2-b970-128ddcd8f60a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PrimitivosFloat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Caracteres.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NumerosPrimitivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NumerosPrimitivos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrimitivosFloat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimitivosFloat.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +52,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Caracteres.executor": "Run",
     "Application.NumerosPrimitivos.executor": "Run",
     "Application.PrimitivosFloat.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -62,7 +63,14 @@
     "last_opened_file_path": "C:/Users/Freddy Urrego/OneDrive/Escritorio/Programacion"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PrimitivosFloat">
+  <component name="RunManager" selected="Application.Caracteres">
+    <configuration name="Caracteres" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Caracteres" />
+      <module name="HolaMundo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NumerosPrimitivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NumerosPrimitivos" />
       <module name="HolaMundo" />
@@ -79,6 +87,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Caracteres" />
         <item itemvalue="Application.PrimitivosFloat" />
         <item itemvalue="Application.NumerosPrimitivos" />
       </list>

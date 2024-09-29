@@ -1,6 +1,6 @@
 public class PrimitivosFloat {
 
-    static float varFlotante; //Variable constante en defult sin modificador de acceso.
+    static float varFlotante = 45.45f; //Variable constante en defult sin modificador de acceso.
 
     public static void main(String[] args) {
         float realFloat = 1.0f;
