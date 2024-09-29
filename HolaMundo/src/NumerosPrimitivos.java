@@ -43,12 +43,6 @@ public class NumerosPrimitivos {
         System.out.println("Valor Minimo de un Double: "+Double.MIN_VALUE+"\n");
 
         var numeroVar = 127;
-        System.out.println("numeroVar = " + numeroVar);
-        
 
-
-
-
-        System.exit(0);
     }
 }

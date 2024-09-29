@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="638d05f7-29a6-48c2-b970-128ddcd8f60a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/PrimitivosFloat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/NumerosPrimitivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NumerosPrimitivos.java" afterDir="false" />
     </list>
@@ -52,6 +53,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.NumerosPrimitivos.executor": "Run",
+    "Application.PrimitivosFloat.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -60,7 +62,7 @@
     "last_opened_file_path": "C:/Users/Freddy Urrego/OneDrive/Escritorio/Programacion"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.PrimitivosFloat">
     <configuration name="NumerosPrimitivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NumerosPrimitivos" />
       <module name="HolaMundo" />
@@ -68,8 +70,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PrimitivosFloat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimitivosFloat" />
+      <module name="HolaMundo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimitivosFloat" />
         <item itemvalue="Application.NumerosPrimitivos" />
       </list>
     </recent_temporary>
