@@ -28,12 +28,26 @@ public class NumerosPrimitivos {
         System.out.println("Valor Maximo de un Long: "+Long.MAX_VALUE);
         System.out.println("Valor Minimo de un Long: "+Long.MIN_VALUE+"\n");
 
-        float numeroFloat = 9223372036854775807L;
+        float numeroFloat = 3.4028235E38f;
         System.out.println("numeroFloat = " + numeroFloat);
         System.out.println("Tipo Float corresponde en byte a: "+Float.BYTES);
         System.out.println("Tipo Float corresponde en bites a: "+Float.SIZE);
         System.out.println("Valor Maximo de un Float: "+Float.MAX_VALUE);
         System.out.println("Valor Minimo de un Float: "+Float.MIN_VALUE+"\n");
+
+        double numeroDouble = 1.7976931348623157E308D;
+        System.out.println("numeroDouble = " + numeroDouble);
+        System.out.println("Tipo Double corresponde en byte a: "+Double.BYTES);
+        System.out.println("Tipo Double corresponde en bites a: "+Double.SIZE);
+        System.out.println("Valor Maximo de un Double: "+Double.MAX_VALUE);
+        System.out.println("Valor Minimo de un Double: "+Double.MIN_VALUE+"\n");
+
+        var numeroVar = 127;
+        System.out.println("numeroVar = " + numeroVar);
+        
+
+
+
 
         System.exit(0);
     }
