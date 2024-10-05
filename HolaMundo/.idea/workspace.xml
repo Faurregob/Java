@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="638d05f7-29a6-48c2-b970-128ddcd8f60a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/SistemasNumericosEntradaScanner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SistemasNumericos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SistemasNumericos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +57,7 @@
     "Application.PrimitivosCaracteres.executor": "Run",
     "Application.PrimitivosFloat.executor": "Run",
     "Application.SistemasNumericos.executor": "Run",
+    "Application.SistemasNumericosEntradaScanner.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -65,7 +66,12 @@
     "last_opened_file_path": "C:/Users/Freddy Urrego/OneDrive/Escritorio/Programacion"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SistemasNumericos">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SistemasNumericosEntradaScanner">
     <configuration name="PrimitivosBoolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PrimitivosBoolean" />
       <module name="HolaMundo" />
@@ -75,13 +81,6 @@
     </configuration>
     <configuration name="PrimitivosCaracteres" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PrimitivosCaracteres" />
-      <module name="HolaMundo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrimitivosEnteros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrimitivosEnteros" />
       <module name="HolaMundo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,13 +100,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SistemasNumericosEntradaScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SistemasNumericosEntradaScanner" />
+      <module name="HolaMundo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SistemasNumericosEntradaScanner" />
         <item itemvalue="Application.SistemasNumericos" />
         <item itemvalue="Application.PrimitivosBoolean" />
         <item itemvalue="Application.PrimitivosCaracteres" />
         <item itemvalue="Application.PrimitivosFloat" />
-        <item itemvalue="Application.PrimitivosEnteros" />
       </list>
     </recent_temporary>
   </component>
