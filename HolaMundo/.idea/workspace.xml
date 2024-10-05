@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="638d05f7-29a6-48c2-b970-128ddcd8f60a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrimitivosBoolean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimitivosBoolean.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,20 +49,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Caracteres.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumerosPrimitivos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrimitivosFloat.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Freddy Urrego/OneDrive/Escritorio/Programacion&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Caracteres.executor": "Run",
+    "Application.NumerosPrimitivos.executor": "Run",
+    "Application.PrimitivosBoolean.executor": "Run",
+    "Application.PrimitivosCaracteres.executor": "Run",
+    "Application.PrimitivosFloat.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Freddy Urrego/OneDrive/Escritorio/Programacion"
   }
-}</component>
-  <component name="RunManager" selected="Application.PrimitivosCaracteres">
+}]]></component>
+  <component name="RunManager" selected="Application.PrimitivosBoolean">
+    <configuration name="PrimitivosBoolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimitivosBoolean" />
+      <module name="HolaMundo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PrimitivosCaracteres" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PrimitivosCaracteres" />
       <module name="HolaMundo" />
@@ -85,6 +95,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimitivosBoolean" />
         <item itemvalue="Application.PrimitivosCaracteres" />
         <item itemvalue="Application.PrimitivosFloat" />
         <item itemvalue="Application.PrimitivosEnteros" />
